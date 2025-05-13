@@ -1,0 +1,37 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino build files
+**/build/
+*.hex
+*.elf
+*.bin
+
+# Altium specific
+**/__Previews/
+**/__Logs/
+**/*History
+*.PrjPCBStructure
+**/Project\ Logs*/
+**/Project\ Outputs*/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.Net
+*.rep
+*.drc
+*.dsn
+*.Job
+*.Dat
+
+# Other temp files
+*.log
+*.tmp
+.vscode/
+.vs/
+*.bak
+*.swp
+*~ 

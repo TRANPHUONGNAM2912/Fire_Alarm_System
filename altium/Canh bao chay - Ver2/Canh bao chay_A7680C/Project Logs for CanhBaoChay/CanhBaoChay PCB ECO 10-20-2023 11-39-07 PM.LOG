@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Relay Pin=Arduino1-D8
+Removed Pin From Net: NetName=Spare1 Pin=Arduino1-D9
+Removed Pin From Net: NetName=Pump Pin=R3-2
+Added Pin To Net: NetName=Relay Pin=Arduino1-D9
+Added Pin To Net: NetName=Spare1 Pin=Arduino1-D10
+Added Pin To Net: NetName=Speak Pin=Arduino1-D8
+Added Pin To Net: NetName=Speak Pin=R3-2
+Added Net: Name=Speak

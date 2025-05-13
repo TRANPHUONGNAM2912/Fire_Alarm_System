@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=VCC Pin=1-1
+Removed Pin From Net: NetName=GND Pin=1-2
+Removed Pin From Net: NetName=Net2_1 Pin=2-1
+Removed Pin From Net: NetName=Humi Pin=2-2
+Removed Pin From Net: NetName=Humi Pin=3-1
+Removed Pin From Net: NetName=GND Pin=3-2
+Removed Pin From Net: NetName=VCC Pin=CB_Mua1-1
+Removed Pin From Net: NetName=GND Pin=CB_Mua1-2
+Removed Pin From Net: NetName=VCC Pin=Dat1-1
+Removed Pin From Net: NetName=GND Pin=Dat1-2
+Removed Pin From Net: NetName=Net2_1 Pin=Dat1-4
+Removed Pin From Net: NetName=3.3V Pin=DHT1-1
+Removed Pin From Net: NetName=DHT Pin=DHT1-2
+Removed Pin From Net: NetName=GND Pin=DHT1-3
+Removed Pin From Net: NetName=Humi Pin=NodeMCU ESP1-1
+Removed Pin From Net: NetName=3.3V Pin=NodeMCU ESP1-11
+Removed Pin From Net: NetName=GND Pin=NodeMCU ESP1-14
+Removed Pin From Net: NetName=VCC Pin=NodeMCU ESP1-15
+Removed Pin From Net: NetName=GND Pin=NodeMCU ESP1-17
+Removed Pin From Net: NetName=Pump Pin=NodeMCU ESP1-20
+Removed Pin From Net: NetName=BT3 Pin=NodeMCU ESP1-22
+Removed Pin From Net: NetName=BT2 Pin=NodeMCU ESP1-23
+Removed Pin From Net: NetName=DHT Pin=NodeMCU ESP1-26
+Removed Pin From Net: NetName=MT Pin=NodeMCU ESP1-27
+Removed Pin From Net: NetName=LCD_SDA Pin=NodeMCU ESP1-28
+Removed Pin From Net: NetName=LCD_SCL Pin=NodeMCU ESP1-29
+Removed Member From Class: ClassName=Humi_Light_Pump Member=2
+Removed Member From Class: ClassName=Humi_Light_Pump Member=3
+Removed Member From Class: ClassName=Humi_Light_Pump Member=C4
+Removed Member From Class: ClassName=Humi_Light_Pump Member=C5
+Removed Member From Class: ClassName=Humi_Light_Pump Member=CB_Mua1
+Removed Member From Class: ClassName=Humi_Light_Pump Member=Dat1
+Removed Member From Class: ClassName=Humi_Light_Pump Member=DHT1
+Removed Member From Class: ClassName=Humi_Light_Pump Member=Do am dat1
+Removed Member From Class: ClassName=Humi_Light_Pump Member=NodeMCU ESP1
+Removed Member From Class: ClassName=Humi_Light_Pump Member=Rain_SS1
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ""; Value = "Cau 5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Cau 1A"; VariantName = "[No Variations]"
+Added Component: Designator=Arduino1(Arduino Nano)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Cau 5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Cau 1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=Flame_SS1(HDR4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H3(XH2.54M-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=MQ1(HDR4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R7(DIEN TRO 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=VCC Pin=1-2
+Added Pin To Net: NetName=VCC Pin=Arduino1-5V
+Added Pin To Net: NetName=DHT Pin=Arduino1-A0
+Added Pin To Net: NetName=LCD_SDA Pin=Arduino1-A4
+Added Pin To Net: NetName=LCD_SCL Pin=Arduino1-A5
+Added Pin To Net: NetName=Humi Pin=Arduino1-D2
+Added Pin To Net: NetName=Net2_1 Pin=Arduino1-D3
+Added Pin To Net: NetName=3.3V Pin=Arduino1-D12
+Added Pin To Net: NetName=GND Pin=Arduino1-GND1
+Added Pin To Net: NetName=VCC Pin=Flame_SS1-1
+Added Pin To Net: NetName=GND Pin=Flame_SS1-2
+Added Pin To Net: NetName=Humi Pin=Flame_SS1-3
+Added Pin To Net: NetName=VCC Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=Net2_1 Pin=H3-3
+Added Pin To Net: NetName=VCC Pin=MQ1-1
+Added Pin To Net: NetName=GND Pin=MQ1-2
+Added Pin To Net: NetName=DHT Pin=MQ1-4
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=Net2_1 Pin=R7-2
+Change Net Name : Old Net Name=3.3V New Net Name=NetArduino1_D12
+Change Net Name : Old Net Name=DHT New Net Name=MQ2_SS
+Change Net Name : Old Net Name=Humi New Net Name=Flame_ss
+Change Net Name : Old Net Name=Net2_1 New Net Name=DS18B20_SS
+Change Class Name : Old Net Name=Humi_Light_Pump New Net Name=CanhBaoChay
+Added Member To Class: ClassName=CanhBaoChay Member=Component Arduino1 Arduino Nano
+Added Member To Class: ClassName=CanhBaoChay Member=Component Flame_SS1 Flame_SS
+Added Member To Class: ClassName=CanhBaoChay Member=Component H3 Header 3P 2.54 Duc Thang
+Added Member To Class: ClassName=CanhBaoChay Member=Component MQ1 MQ2
+Added Member To Class: ClassName=CanhBaoChay Member=Component R7 10k
+Change Room Name: Old Name=Humi_Light_Pump New Name=CanhBaoChay
+Change Room Scope: Old Scope=InComponentClass('Humi_Light_Pump') New Scope=InComponentClass('CanhBaoChay')

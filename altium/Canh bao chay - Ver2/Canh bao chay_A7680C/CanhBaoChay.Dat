@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CanhBaoChay.PrjPcb|ReportField=ProjectFullPath~E:\Project\104.Mach bao chay va chua chay tu dong\Ver3- sua ban ve - code nut nhan - sim\2. Ban ve dien\Canh bao chay - Ver2\Canh bao chay\CanhBaoChay.PrjPcb|ReportField=Title~Bill of Materials For Project [CanhBaoChay.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~47|ReportField=ReportTime~00:10:02|ReportField=ReportDate~23/11/2024|ReportField=ReportDateTime~23/11/2024 00:10:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~23/11/2024|ReportField=CurrentTime~00:05:12|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Project\104.Mach bao chay va chua chay tu dong\Ver3- sua ban ve - code nut nhan - sim\2. Ban ve dien\Canh bao chay - Ver2\Canh bao chay\CanhBaoChay.SchDoc|ReportField=DocumentName~CanhBaoChay.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~22/11/2024|ReportField=Organization~|ReportField=ProjectName~CanhBaoChay.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CanhBaoChay.PrjPcb|ReportField=DataSourceFullPath~E:\Project\104.Mach bao chay va chua chay tu dong\Ver3- sua ban ve - code nut nhan - sim\2. Ban ve dien\Canh bao chay - Ver2\Canh bao chay\CanhBaoChay.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|104|Capacitor|1, C4, Tu 1|C0805|CapSMD|3
+2|Arduino Nano|Arduino NANO|Arduino1|Arduino Nano|Arduino Nano|1
+3|1000uF/16V|Polarized Capacitor (Axial)|C1|C10mm|Cap Pol 12mm|1
+4|Header3|Header IDC, 3 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|C2|Header3|Header3|1
+5|Header4|Header IDC, 4 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|C3|XH2.54M-4|Header4|1
+6|1N5400|Default Diode|D1, D2|DIO-5A|Diode|2
+7|M7|Default Diode|DIO1, DIO2|DIO-SMD-106|Diode SMD|2
+8|Header 3P 2.54 Duc Thang|Cắm|DS1, Flame_SS1|Header 3P DC 2.54|Header 3P 2.54 Duc Thang|2
+9|F2A|Fuse|F1|Fuse|Fuse|1
+10|2p|Cắm|H1|XH2.54M-2|Header 2P 2.54 Duc Thang|1
+11|Jac DC|Jac DC input|JDC1|DC-IN|DCIN|1
+12|BUCK_LM2596||L1|BUCK_LM2596|BUCK_LM2596|1
+13|LCD 16x2||LCD1|LCD16X2N|LCD|1
+14|LED|LED Single colour Green and Red|LED1, LED2, LED3, LED4|LED-5 GRe|LED|4
+15|Speaker|Loudspeaker|LS1|SPEAKER|Speaker|1
+16|Pump|Header IDC, 2 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|May Bom1|Header 2P DC 2.54|Header2|1
+17|MQ2|Header IDC, 4 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|MQ1|Header 4P DC 2.54|Header4|1
+18|Header 2 - M|Header, 2-Pin, Medium|P1|Medium - Header 2|Header 2 - M|1
+19|TIP122|Darlington Silicon Power NPN Transistor, 8 Amp, 100 Volts and 65 Watts|Q1, Q2, Q3|QTO-220|TIP122|3
+20|MT1|Header IDC, 2 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|Quat1|Header 2P DC 2.54|Header2|1
+21|10k|Resistor SMD 0805|R1, R3, R8|RES-SMD-1206|R0805|3
+22|3.3K|Resistor SMD 0805|R2, R6, R9|RES-SMD-1206|R0805|3
+23|1k|Resistor SMD 0805|R4, R7, R10|RES-SMD-1206|R0805|3
+24|330|Resistor SMD 0805|R5|RES-SMD-1206|R0805|1
+25|Header 3P 2.54 Duc Thang|Cắm|Relay1, Spare1, Spare2|XH2.54M-3|Header 3P 2.54 Duc Thang|3
+26|SW|Switch button 4 pin|SW1, SW3|SW4|SW4|2
+27|KCD01-11_SWITCH|Nut Nhan 2 Chan SMD 3x6x2.5|SW2|KCD01-11|KCD01-11_SWITCH|1
+28|SIM A7680C||U1|SIM800L MODULE|SIM800L|1

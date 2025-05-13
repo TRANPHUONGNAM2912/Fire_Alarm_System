@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=MQ1 Old Footprint=HDR4 New Footprint=Header 4P DC 2.54
-Change Component Footprint: Designator=DS1 Old Footprint=XH2.54M-3 New Footprint=Header 3P DC 2.54
-Change Component Footprint: Designator=Flame_SS3 Old Footprint=XH2.54M-3 New Footprint=Header 3P DC 2.54
-Added Member To Class: ClassName=CanhBaoChay Member=Component LED1 LED
-Added Member To Class: ClassName=CanhBaoChay Member=Component R7 1K
